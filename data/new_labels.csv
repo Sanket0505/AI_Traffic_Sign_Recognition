@@ -1,0 +1,18 @@
+﻿ClassId,Name
+0,Speed limit (5km/h)
+2,Speed limit (30km/h)
+3,Speed limit (40km/h)
+4,Speed limit (50km/h)
+5,Speed limit (60km/h)
+6,Speed limit (70km/h)
+7,speed limit (80km/h)
+24,Go Right
+43,Go right or straight
+69,Height limit
+70,Weight limit
+72,Length limit
+83,Steep descent
+84,Steep ascent
+85,Narrow road
+86,Narrow bridge
+87,Unknown

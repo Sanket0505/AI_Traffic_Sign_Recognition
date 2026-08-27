@@ -1,0 +1,31 @@
+# ── Zephyr / build artifacts ─────────────────────────────
+src/qemu_app/build/
+build/
+twister-out/
+*.elf
+*.bin
+*.o
+*.obj
+*.a
+qemu_out.txt
+
+# ── Python ───────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# ── TensorFlow / training scratch ────────────────────────
+*.log
+logs/
+checkpoints/
+*.h5.tmp
+
+# ── OS / editor ──────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
