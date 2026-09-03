@@ -1,0 +1,7 @@
+/* app.overlay — pin the console UART to 115200 baud (submission requirement).
+ * Applied on top of the board devicetree for every build of this app.
+ */
+
+&uart0 {
+	current-speed = <115200>;
+};

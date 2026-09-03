@@ -1,0 +1,365 @@
+source_path,true_model_index,true_class_id,true_name,predicted_model_index,predicted_class_id,predicted_name,confidence,correct
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_0018.png,0,0,Speed limit 5,0,0,Speed limit 5,0.80859375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_0019.png,0,0,Speed limit 5,0,0,Speed limit 5,0.7265625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_0020.png,0,0,Speed limit 5,0,0,Speed limit 5,0.83984375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_0021.png,0,0,Speed limit 5,0,0,Speed limit 5,0.953125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_0022.png,0,0,Speed limit 5,0,0,Speed limit 5,0.8984375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_0023.png,0,0,Speed limit 5,0,0,Speed limit 5,0.9375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_0024.png,0,0,Speed limit 5,0,0,Speed limit 5,0.81640625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_0025.png,0,0,Speed limit 5,0,0,Speed limit 5,0.828125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_0026.png,0,0,Speed limit 5,0,0,Speed limit 5,0.76171875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_0027.png,0,0,Speed limit 5,0,0,Speed limit 5,0.50390625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_0028.png,0,0,Speed limit 5,0,0,Speed limit 5,0.87109375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_0029.png,0,0,Speed limit 5,0,0,Speed limit 5,0.7578125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_0030.png,0,0,Speed limit 5,0,0,Speed limit 5,0.828125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_0031.png,0,0,Speed limit 5,0,0,Speed limit 5,0.671875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_0032.png,0,0,Speed limit 5,0,0,Speed limit 5,0.9296875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_0033.png,0,0,Speed limit 5,0,0,Speed limit 5,0.90625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_0034.png,0,0,Speed limit 5,0,0,Speed limit 5,0.87109375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_0035.png,0,0,Speed limit 5,0,0,Speed limit 5,0.66015625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_0036.png,0,0,Speed limit 5,0,0,Speed limit 5,0.88671875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_0037.png,0,0,Speed limit 5,0,0,Speed limit 5,0.94140625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_0038.png,0,0,Speed limit 5,0,0,Speed limit 5,0.79296875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_0039.png,0,0,Speed limit 5,0,0,Speed limit 5,0.859375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_0040.png,0,0,Speed limit 5,0,0,Speed limit 5,0.60546875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_0041.png,0,0,Speed limit 5,0,0,Speed limit 5,0.73828125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_0042.png,0,0,Speed limit 5,0,0,Speed limit 5,0.5859375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_0055.png,0,0,Speed limit 5,0,0,Speed limit 5,0.921875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_0056.png,0,0,Speed limit 5,0,0,Speed limit 5,0.953125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_0057.png,0,0,Speed limit 5,0,0,Speed limit 5,0.94921875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_0058.png,0,0,Speed limit 5,0,0,Speed limit 5,0.46875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_1_0012.png,0,0,Speed limit 5,0,0,Speed limit 5,0.8828125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_1_0013.png,0,0,Speed limit 5,0,0,Speed limit 5,0.6171875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_1_0014.png,0,0,Speed limit 5,0,0,Speed limit 5,0.80078125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_1_0015.png,0,0,Speed limit 5,0,0,Speed limit 5,0.8359375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_1_0016.png,0,0,Speed limit 5,0,0,Speed limit 5,0.77734375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_1_0017.png,0,0,Speed limit 5,0,0,Speed limit 5,0.63671875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_1_0018.png,0,0,Speed limit 5,0,0,Speed limit 5,0.80859375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_1_0019.png,0,0,Speed limit 5,0,0,Speed limit 5,0.7265625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_1_0020.png,0,0,Speed limit 5,0,0,Speed limit 5,0.83984375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_1_0021.png,0,0,Speed limit 5,0,0,Speed limit 5,0.953125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_1_0022.png,0,0,Speed limit 5,0,0,Speed limit 5,0.8984375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_1_0023.png,0,0,Speed limit 5,0,0,Speed limit 5,0.9375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_1_0024.png,0,0,Speed limit 5,0,0,Speed limit 5,0.81640625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_1_0025.png,0,0,Speed limit 5,0,0,Speed limit 5,0.828125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_1_0026.png,0,0,Speed limit 5,0,0,Speed limit 5,0.76171875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_1_0027.png,0,0,Speed limit 5,0,0,Speed limit 5,0.50390625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_1_0028.png,0,0,Speed limit 5,0,0,Speed limit 5,0.87109375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_1_0029.png,0,0,Speed limit 5,0,0,Speed limit 5,0.7578125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_1_0030.png,0,0,Speed limit 5,0,0,Speed limit 5,0.828125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\0\000_1_0031.png,0,0,Speed limit 5,0,0,Speed limit 5,0.671875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\2\002_1_0003.png,1,2,Speed limit 30,1,2,Speed limit 30,0.38671875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\2\002_1_0004.png,1,2,Speed limit 30,1,2,Speed limit 30,0.62109375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\2\002_1_0005.png,1,2,Speed limit 30,1,2,Speed limit 30,0.328125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\2\002_1_0006.png,1,2,Speed limit 30,1,2,Speed limit 30,0.74609375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\2\002_1_0007.png,1,2,Speed limit 30,1,2,Speed limit 30,0.89453125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\2\002_1_0008.png,1,2,Speed limit 30,1,2,Speed limit 30,0.79296875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\2\002_1_0009.png,1,2,Speed limit 30,1,2,Speed limit 30,0.94921875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\2\002_1_0010.png,1,2,Speed limit 30,1,2,Speed limit 30,0.84375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\2\002_1_0011.png,1,2,Speed limit 30,1,2,Speed limit 30,0.83203125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\2\002_1_0012.png,1,2,Speed limit 30,1,2,Speed limit 30,0.91796875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\3\003_1_0097.png,2,3,Speed limit 40,2,3,Speed limit 40,0.72265625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\3\003_1_0098.png,2,3,Speed limit 40,2,3,Speed limit 40,0.859375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\3\003_1_0099.png,2,3,Speed limit 40,2,3,Speed limit 40,0.8671875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\3\003_1_0100.png,2,3,Speed limit 40,2,3,Speed limit 40,0.8984375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\3\003_1_0101.png,2,3,Speed limit 40,2,3,Speed limit 40,0.74609375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\3\003_1_0102.png,2,3,Speed limit 40,2,3,Speed limit 40,0.80859375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\3\003_1_0103.png,2,3,Speed limit 40,2,3,Speed limit 40,0.62109375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\3\003_1_0104.png,2,3,Speed limit 40,2,3,Speed limit 40,0.73828125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\3\003_1_0105.png,2,3,Speed limit 40,2,3,Speed limit 40,0.79296875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\3\003_1_0106.png,2,3,Speed limit 40,2,3,Speed limit 40,0.78125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\3\003_1_0107.png,2,3,Speed limit 40,2,3,Speed limit 40,0.546875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\3\003_1_0108.png,2,3,Speed limit 40,4,5,Speed limit 60,0.5859375,0
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\3\003_1_0109.png,2,3,Speed limit 40,2,3,Speed limit 40,0.84765625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\3\003_1_0110.png,2,3,Speed limit 40,2,3,Speed limit 40,0.53125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\3\003_1_0111.png,2,3,Speed limit 40,2,3,Speed limit 40,0.74609375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\3\003_1_0112.png,2,3,Speed limit 40,2,3,Speed limit 40,0.78515625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\3\003_1_0113.png,2,3,Speed limit 40,2,3,Speed limit 40,0.78515625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\3\003_1_0114.png,2,3,Speed limit 40,2,3,Speed limit 40,0.75,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\3\003_1_0115.png,2,3,Speed limit 40,2,3,Speed limit 40,0.578125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\3\003_1_0116.png,2,3,Speed limit 40,2,3,Speed limit 40,0.921875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\3\003_1_0117.png,2,3,Speed limit 40,2,3,Speed limit 40,0.75,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\3\003_1_0118.png,2,3,Speed limit 40,2,3,Speed limit 40,0.8828125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\3\003_1_0119.png,2,3,Speed limit 40,2,3,Speed limit 40,0.484375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\3\003_1_0120.png,2,3,Speed limit 40,2,3,Speed limit 40,0.84765625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\3\003_1_0121.png,2,3,Speed limit 40,2,3,Speed limit 40,0.359375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\3\003_1_0122.png,2,3,Speed limit 40,2,3,Speed limit 40,0.66015625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\3\003_1_0123.png,2,3,Speed limit 40,2,3,Speed limit 40,0.48046875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\3\003_1_0124.png,2,3,Speed limit 40,2,3,Speed limit 40,0.87890625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\3\003_1_0125.png,2,3,Speed limit 40,2,3,Speed limit 40,0.39453125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\3\003_1_0126.png,2,3,Speed limit 40,2,3,Speed limit 40,0.796875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\4\004_1_0034.png,3,4,Speed limit 50,3,4,Speed limit 50,0.62890625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\4\004_1_0035.png,3,4,Speed limit 50,3,4,Speed limit 50,0.83984375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\4\004_1_0036.png,3,4,Speed limit 50,6,7,Speed limit 80,0.68359375,0
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\4\004_1_0037.png,3,4,Speed limit 50,3,4,Speed limit 50,0.625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\4\004_1_0038.png,3,4,Speed limit 50,1,2,Speed limit 30,0.6015625,0
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\4\004_1_0039.png,3,4,Speed limit 50,3,4,Speed limit 50,0.71484375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\4\004_1_0040.png,3,4,Speed limit 50,3,4,Speed limit 50,0.62109375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\4\004_1_0041.png,3,4,Speed limit 50,3,4,Speed limit 50,0.65625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\4\004_1_0042.png,3,4,Speed limit 50,3,4,Speed limit 50,0.58203125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\4\004_1_0043.png,3,4,Speed limit 50,3,4,Speed limit 50,0.59765625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\5\005_1_0014.png,4,5,Speed limit 60,4,5,Speed limit 60,0.8359375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\5\005_1_0015.png,4,5,Speed limit 60,2,3,Speed limit 40,0.63671875,0
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\5\005_1_0016.png,4,5,Speed limit 60,2,3,Speed limit 40,0.578125,0
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\5\005_1_0017.png,4,5,Speed limit 60,4,5,Speed limit 60,0.9375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\5\005_1_0018.png,4,5,Speed limit 60,4,5,Speed limit 60,0.89453125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\5\005_1_0019.png,4,5,Speed limit 60,4,5,Speed limit 60,0.93359375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\5\005_1_0020.png,4,5,Speed limit 60,4,5,Speed limit 60,0.69140625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\5\005_1_0021.png,4,5,Speed limit 60,4,5,Speed limit 60,0.9609375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\5\005_1_0022.png,4,5,Speed limit 60,4,5,Speed limit 60,0.91015625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\5\005_1_0054.png,4,5,Speed limit 60,2,3,Speed limit 40,0.77734375,0
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\5\005_1_0055.png,4,5,Speed limit 60,2,3,Speed limit 40,0.6484375,0
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\5\005_1_0056.png,4,5,Speed limit 60,4,5,Speed limit 60,0.51171875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\5\005_1_0057.png,4,5,Speed limit 60,4,5,Speed limit 60,0.67578125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\5\005_1_0058.png,4,5,Speed limit 60,4,5,Speed limit 60,0.83984375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\5\005_1_0059.png,4,5,Speed limit 60,4,5,Speed limit 60,0.7578125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\5\005_1_0060.png,4,5,Speed limit 60,4,5,Speed limit 60,0.4140625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\5\005_1_0061.png,4,5,Speed limit 60,4,5,Speed limit 60,0.57421875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\5\005_1_0062.png,4,5,Speed limit 60,4,5,Speed limit 60,0.796875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\5\005_1_0063.png,4,5,Speed limit 60,4,5,Speed limit 60,0.6796875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\5\005_1_0064.png,4,5,Speed limit 60,4,5,Speed limit 60,0.7265625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\5\005_1_0065.png,4,5,Speed limit 60,4,5,Speed limit 60,0.390625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\5\005_1_0066.png,4,5,Speed limit 60,4,5,Speed limit 60,0.75390625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\5\005_1_0067.png,4,5,Speed limit 60,4,5,Speed limit 60,0.76953125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\5\005_1_0068.png,4,5,Speed limit 60,4,5,Speed limit 60,0.78515625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\5\005_1_0069.png,4,5,Speed limit 60,6,7,Speed limit 80,0.72265625,0
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\5\005_1_0070.png,4,5,Speed limit 60,6,7,Speed limit 80,0.63671875,0
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\5\005_1_0071.png,4,5,Speed limit 60,4,5,Speed limit 60,0.4140625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\5\005_1_0072.png,4,5,Speed limit 60,4,5,Speed limit 60,0.4609375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\5\005_1_0073.png,4,5,Speed limit 60,4,5,Speed limit 60,0.71875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\5\005_1_0074.png,4,5,Speed limit 60,4,5,Speed limit 60,0.45703125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\6\006_1_0001.png,5,6,Speed limit 70,5,6,Speed limit 70,0.953125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\6\006_1_0002.png,5,6,Speed limit 70,5,6,Speed limit 70,0.96484375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\6\006_1_0003.png,5,6,Speed limit 70,5,6,Speed limit 70,0.93359375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\6\006_1_0004.png,5,6,Speed limit 70,5,6,Speed limit 70,0.8671875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\6\006_1_0005.png,5,6,Speed limit 70,5,6,Speed limit 70,0.921875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\6\006_1_0006.png,5,6,Speed limit 70,5,6,Speed limit 70,0.890625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\6\006_1_0034.png,5,6,Speed limit 70,5,6,Speed limit 70,0.94921875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\6\006_1_0035.png,5,6,Speed limit 70,5,6,Speed limit 70,0.84765625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\6\006_1_0036.png,5,6,Speed limit 70,5,6,Speed limit 70,0.8515625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\6\006_1_0037.png,5,6,Speed limit 70,5,6,Speed limit 70,0.90625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\6\006_1_0038.png,5,6,Speed limit 70,5,6,Speed limit 70,0.97265625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\7\007_1_0022.png,6,7,Speed limit 80,6,7,Speed limit 80,0.44921875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\7\007_1_0023.png,6,7,Speed limit 80,2,3,Speed limit 40,0.59375,0
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\7\007_1_0024.png,6,7,Speed limit 80,6,7,Speed limit 80,0.55078125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\7\007_1_0025.png,6,7,Speed limit 80,6,7,Speed limit 80,0.7265625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\7\007_1_0026.png,6,7,Speed limit 80,6,7,Speed limit 80,0.87109375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\7\007_1_0026_1_j.png,6,7,Speed limit 80,1,2,Speed limit 30,0.29296875,0
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\7\007_1_0027.png,6,7,Speed limit 80,6,7,Speed limit 80,0.83984375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\7\007_1_0058.png,6,7,Speed limit 80,6,7,Speed limit 80,0.89453125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\7\007_1_0059.png,6,7,Speed limit 80,6,7,Speed limit 80,0.66015625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\7\007_1_0060.png,6,7,Speed limit 80,6,7,Speed limit 80,0.921875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\7\007_1_0061.png,6,7,Speed limit 80,2,3,Speed limit 40,0.35546875,0
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\7\007_1_0062.png,6,7,Speed limit 80,6,7,Speed limit 80,0.73046875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\7\007_1_0063.png,6,7,Speed limit 80,6,7,Speed limit 80,0.828125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\7\007_1_0064.png,6,7,Speed limit 80,6,7,Speed limit 80,0.6015625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\7\007_1_0065.png,6,7,Speed limit 80,6,7,Speed limit 80,0.58984375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\7\007_1_0066.png,6,7,Speed limit 80,6,7,Speed limit 80,0.75390625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\7\007_1_0067.png,6,7,Speed limit 80,6,7,Speed limit 80,0.85546875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\7\007_1_0068.png,6,7,Speed limit 80,4,5,Speed limit 60,0.2578125,0
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\7\007_1_0069.png,6,7,Speed limit 80,4,5,Speed limit 60,0.26171875,0
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\7\007_1_0070.png,6,7,Speed limit 80,6,7,Speed limit 80,0.45703125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\7\007_1_0071.png,6,7,Speed limit 80,6,7,Speed limit 80,0.5546875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\7\007_1_0072.png,6,7,Speed limit 80,6,7,Speed limit 80,0.80078125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\7\007_1_0073.png,6,7,Speed limit 80,6,7,Speed limit 80,0.515625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\7\007_1_0074.png,6,7,Speed limit 80,6,7,Speed limit 80,0.83203125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\7\007_1_0075.png,6,7,Speed limit 80,6,7,Speed limit 80,0.7265625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\24\024_1_0004.png,7,24,Go Right,7,24,Go Right,0.9609375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\24\024_1_0005.png,7,24,Go Right,7,24,Go Right,0.9296875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\24\024_1_0006.png,7,24,Go Right,7,24,Go Right,0.92578125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\24\024_1_0007.png,7,24,Go Right,7,24,Go Right,0.9453125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\24\024_1_0007_1_j.png,7,24,Go Right,7,24,Go Right,0.9375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\24\024_1_0008.png,7,24,Go Right,7,24,Go Right,0.9296875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\24\024_1_0009.png,7,24,Go Right,7,24,Go Right,0.9375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\24\024_1_0010.png,7,24,Go Right,7,24,Go Right,0.9296875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\24\024_1_0011.png,7,24,Go Right,7,24,Go Right,0.91015625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\24\024_1_0012.png,7,24,Go Right,7,24,Go Right,0.97265625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\24\024_1_0047.png,7,24,Go Right,7,24,Go Right,0.96484375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\24\024_1_0048.png,7,24,Go Right,7,24,Go Right,0.90625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\24\024_1_0049.png,7,24,Go Right,7,24,Go Right,0.96875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\43\043_1_0013.png,8,43,Go Right or Straight,8,43,Go Right or Straight,0.5859375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\43\043_1_0014.png,8,43,Go Right or Straight,8,43,Go Right or Straight,0.796875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\43\043_1_0015.png,8,43,Go Right or Straight,16,87,Unknown,0.5234375,0
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\43\043_1_0016.png,8,43,Go Right or Straight,8,43,Go Right or Straight,0.9453125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\43\043_1_0017.png,8,43,Go Right or Straight,8,43,Go Right or Straight,0.703125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\43\043_1_0018.png,8,43,Go Right or Straight,8,43,Go Right or Straight,0.72265625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\43\043_1_0019.png,8,43,Go Right or Straight,8,43,Go Right or Straight,0.9375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\43\043_1_0020.png,8,43,Go Right or Straight,8,43,Go Right or Straight,0.94921875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\43\043_1_0021.png,8,43,Go Right or Straight,8,43,Go Right or Straight,0.8046875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\43\043_1_0022.png,8,43,Go Right or Straight,8,43,Go Right or Straight,0.75390625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\43\043_1_0023.png,8,43,Go Right or Straight,8,43,Go Right or Straight,0.93359375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\43\043_1_0024.png,8,43,Go Right or Straight,8,43,Go Right or Straight,0.91015625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\43\043_1_0025.png,8,43,Go Right or Straight,8,43,Go Right or Straight,0.58984375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\43\043_1_0026.png,8,43,Go Right or Straight,8,43,Go Right or Straight,0.94921875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\69\11_original_54_original_54.png_d9013c15-dc79-4710-aedb-48f7e814898b.png_6f8922d4-9bb9-483c-b6b0-da21ed699086.png,9,69,Height Limit,9,69,Height Limit,0.90234375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\69\11_original_54_original_54.png_d9013c15-dc79-4710-aedb-48f7e814898b.png_c11463cd-4351-4f05-90dc-5c656a10b788.png,9,69,Height Limit,9,69,Height Limit,0.93359375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\69\11_original_54_original_54.png_d9013c15-dc79-4710-aedb-48f7e814898b.png_d5f63743-e46a-4f0f-b71f-e37aca8d7695.png,9,69,Height Limit,9,69,Height Limit,0.91015625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\69\11_original_54_original_54.png_d9013c15-dc79-4710-aedb-48f7e814898b.png_f5ade2d1-5bae-4790-b1c7-b4cda872d48a.png,9,69,Height Limit,9,69,Height Limit,0.85546875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\69\11_original_54_original_54.png_dce4de60-107a-4942-ac75-27afdc8783ed.png_02fae014-bf7f-4a8d-a0c9-c1c31a253058.png,9,69,Height Limit,9,69,Height Limit,0.93359375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\69\11_original_54_original_54.png_dce4de60-107a-4942-ac75-27afdc8783ed.png_8bc4a22b-da70-413b-9466-a458d46bc510.png,9,69,Height Limit,9,69,Height Limit,0.85546875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\69\11_original_54_original_54.png_e140d4d5-9b56-4f7c-a797-aaec3fb62870.png_6cfc7db4-3168-41fa-937d-7040d727a56b.png,9,69,Height Limit,9,69,Height Limit,0.78515625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\69\11_original_54_original_54.png_e549f99b-ecca-4aac-8ca6-e85d457d64c2.png_0c2cef69-b048-4267-ba51-c6165da5e498.png,9,69,Height Limit,9,69,Height Limit,0.98046875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\69\11_original_54_original_54.png_e6f11aa1-9693-4d3f-99da-7364e2024967.png_1a36b92a-9b9d-4603-95e4-8b14f1a52d89.png,9,69,Height Limit,9,69,Height Limit,0.9609375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\69\11_original_54_original_54.png_e6f11aa1-9693-4d3f-99da-7364e2024967.png_1d191e92-ce43-424a-8089-2513b95e275d.png,9,69,Height Limit,9,69,Height Limit,0.96484375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\69\11_original_54_original_54.png_e86ab47d-eab8-43ff-90ed-f63127612ad4.png_6dbab5aa-fbc3-45c4-bb8c-024647bdc9d5.png,9,69,Height Limit,9,69,Height Limit,0.921875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\69\11_original_54_original_54.png_e86ab47d-eab8-43ff-90ed-f63127612ad4.png_f25dec68-f67b-4a65-aa1c-be4ff276df71.png,9,69,Height Limit,9,69,Height Limit,0.97265625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\69\11_original_54_original_54.png_e86ab47d-eab8-43ff-90ed-f63127612ad4.png_fc816676-7744-4421-b230-06b8a101dee9.png,9,69,Height Limit,9,69,Height Limit,0.94921875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\69\54_original_54.png_08cd8dfe-3e16-4f68-9e8a-d5ccb2e57df4.png,9,69,Height Limit,9,69,Height Limit,0.8671875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\69\54_original_54.png_08ee5787-037e-4c7b-8153-830732b2b867.png,9,69,Height Limit,9,69,Height Limit,0.94921875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\69\54_original_54.png_11f6530c-d69b-4877-ba0f-76115def6a95.png,9,69,Height Limit,9,69,Height Limit,0.43359375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\69\54_original_54.png_164b2ea6-4b98-468c-88d8-1fb775e6aa6b.png,9,69,Height Limit,9,69,Height Limit,0.8984375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\69\54_original_54.png_2192a6a5-0f32-47c1-95c5-d79a935bb7c6.png,9,69,Height Limit,9,69,Height Limit,0.8984375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\69\54_original_54.png_310c5e0f-d53b-4be8-8411-073f4d290e1e.png,9,69,Height Limit,9,69,Height Limit,0.6171875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\69\54_original_54.png_33d2f07f-555a-4270-ac02-8c5dbf5e37e0.png,9,69,Height Limit,9,69,Height Limit,0.953125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\69\54_original_54.png_34eef05c-28bf-4822-b14d-ec77cc5238ae.png,9,69,Height Limit,9,69,Height Limit,0.81640625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\69\54_original_54.png_36b4f0ea-1b32-4a3b-aafb-7ba04392c880.png,9,69,Height Limit,9,69,Height Limit,0.921875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\69\54_original_54.png_37f3eed6-294f-4c16-95b5-2f402b34cab7.png,9,69,Height Limit,9,69,Height Limit,0.8984375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\69\54_original_54.png_44df70e0-1780-42e0-b2ea-78894656639d.png,9,69,Height Limit,9,69,Height Limit,0.94921875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\69\54_original_54.png_489cb6f2-cbc6-454b-9e6c-07f43d13d66e.png,9,69,Height Limit,9,69,Height Limit,0.859375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\69\54_original_54.png_526ec0fd-e9df-4346-bee2-60a384acd5c1.png,9,69,Height Limit,9,69,Height Limit,0.8203125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\69\54_original_54.png_52fe19a8-ea8a-4c92-b075-58a8e846ab6a.png,9,69,Height Limit,9,69,Height Limit,0.8125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\69\54_original_54.png_580ec072-155c-4351-a9f2-d4c2e925c99d.png,9,69,Height Limit,9,69,Height Limit,0.91796875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\69\54_original_54.png_59a7ddff-1513-44f4-83f8-48e96a65ca0a.png,9,69,Height Limit,9,69,Height Limit,0.8046875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\69\54_original_54.png_638b2448-82e4-478f-8bac-0028a494b673.png,9,69,Height Limit,9,69,Height Limit,0.984375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\70\12_original_55_original_55.png_969ee585-1d34-4962-87c8-14aa2e824c61.png_b95a1719-bea1-4284-8f41-a86514c496d1.png,10,70,Weight Limit,10,70,Weight Limit,0.8984375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\70\12_original_55_original_55.png_a4309b34-0beb-4174-a46d-a004d0e49cd9.png_fdfec47a-90af-481f-aea6-f6b2c09cbe83.png,10,70,Weight Limit,10,70,Weight Limit,0.4453125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\70\12_original_55_original_55.png_a4a30d94-8ee9-42c4-8d66-13bf97286f5c.png_11e25938-c7ab-4fee-9aa2-5087843fda90.png,10,70,Weight Limit,10,70,Weight Limit,0.7734375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\70\12_original_55_original_55.png_a4a30d94-8ee9-42c4-8d66-13bf97286f5c.png_68dc7e04-8bb1-4cca-8081-70385d306713.png,10,70,Weight Limit,10,70,Weight Limit,0.97265625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\70\12_original_55_original_55.png_ab812019-e12e-41ed-a155-d1c0c209cdd3.png_0bd8d356-f4ca-4ba6-b726-e7d739f7de88.png,10,70,Weight Limit,10,70,Weight Limit,0.93359375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\70\55_original_55.png_323c424b-9484-4fab-899e-2f32322385b3.png,10,70,Weight Limit,10,70,Weight Limit,0.95703125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\70\55_original_55.png_382f1ace-175e-43bb-9039-8576ed96f2e2.png,10,70,Weight Limit,10,70,Weight Limit,0.9375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\70\55_original_55.png_405feaa5-dc09-421a-9539-8086d2adf71e.png,10,70,Weight Limit,10,70,Weight Limit,0.8984375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\70\55_original_55.png_519387f2-6165-4540-94cf-0cb978fc0197.png,10,70,Weight Limit,10,70,Weight Limit,0.81640625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\70\55_original_55.png_825025f8-0690-4f42-b47d-9a7a381d172e.png,10,70,Weight Limit,10,70,Weight Limit,0.86328125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\70\55_original_55.png_88756b84-3169-4c8e-8808-7e2b6735076b.png,10,70,Weight Limit,10,70,Weight Limit,0.7578125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\72\14_original_57_original_57.png_c2bc08b7-8072-4f43-87ac-1519bfe2fd19.png_c3b06c8c-4238-4cb3-b12a-8a642bc1a718.png,11,72,Length Limit,11,72,Length Limit,0.94921875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\72\14_original_57_original_57.png_c6dea14a-ea4f-49db-aec8-cd8d1090fca9.png_c6fbd891-4329-40ea-acaa-2ab8206d834b.png,11,72,Length Limit,11,72,Length Limit,0.984375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\72\14_original_57_original_57.png_c6dea14a-ea4f-49db-aec8-cd8d1090fca9.png_fb7d13f2-0cea-4ef1-b6c9-c48b3870cfb2.png,11,72,Length Limit,11,72,Length Limit,0.97265625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\72\14_original_57_original_57.png_c6e4e889-51fc-4048-85b4-c343dca21ece.png_0bff4f20-25f2-4e63-a3c6-30d91a7d74ea.png,11,72,Length Limit,11,72,Length Limit,0.97265625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\72\14_original_57_original_57.png_c6e4e889-51fc-4048-85b4-c343dca21ece.png_beb4a879-29d5-4d47-befd-4519ccd6df13.png,11,72,Length Limit,11,72,Length Limit,0.984375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\72\14_original_57_original_57.png_c6f6910c-1418-4ba1-8bb3-e4631acf9f9c.png_04c8e77a-1df9-4107-8020-b408547002b5.png,11,72,Length Limit,11,72,Length Limit,0.96484375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\72\14_original_57_original_57.png_c6f6910c-1418-4ba1-8bb3-e4631acf9f9c.png_8400708f-51ef-4097-a524-ca8432618d95.png,11,72,Length Limit,11,72,Length Limit,0.7578125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\72\14_original_57_original_57.png_c6f6910c-1418-4ba1-8bb3-e4631acf9f9c.png_997617ae-e5b5-44e8-8a17-8e401dca7d03.png,11,72,Length Limit,11,72,Length Limit,0.9765625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\72\14_original_57_original_57.png_c91c26b1-2551-4fc3-a56e-dfa78839b8c2.png_42b8e138-7288-4e28-93b1-f2ddff0e65f8.png,11,72,Length Limit,11,72,Length Limit,0.42578125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\72\14_original_57_original_57.png_c91c26b1-2551-4fc3-a56e-dfa78839b8c2.png_47dbc3ef-22b7-473e-b125-550593040c14.png,11,72,Length Limit,11,72,Length Limit,0.76171875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\72\57_original_57.png_047a94af-7f73-43cd-ad50-65707ea5dc08.png,11,72,Length Limit,11,72,Length Limit,0.9765625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\72\57_original_57.png_086a4507-6ad7-4432-a461-59a56d365c81.png,11,72,Length Limit,11,72,Length Limit,0.95703125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\72\57_original_57.png_093b4306-f9f9-4a9a-9de0-8f523e9b708b.png,11,72,Length Limit,11,72,Length Limit,0.96875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\72\57_original_57.png_1276e454-1df7-4f95-8203-ec348cb60eca.png,11,72,Length Limit,11,72,Length Limit,0.86328125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\72\57_original_57.png_17e51579-b35a-4c44-b679-53cac73912bf.png,11,72,Length Limit,11,72,Length Limit,0.8515625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\72\57_original_57.png_25181ad0-2a1e-4b6b-aaea-798c34342381.png,11,72,Length Limit,11,72,Length Limit,0.8515625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\72\57_original_57.png_2849fed3-4519-4533-b849-fbb50d86b05f.png,11,72,Length Limit,11,72,Length Limit,0.82421875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\72\57_original_57.png_30fa154a-5600-4f14-b8b1-7417297b61be.png,11,72,Length Limit,11,72,Length Limit,0.859375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\72\57_original_57.png_31fb8394-2ff3-42b5-862a-beb2f1fbf520.png,11,72,Length Limit,11,72,Length Limit,0.94140625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\72\57_original_57.png_33695bf1-be41-4f4a-80f8-706bdf1b7175.png,11,72,Length Limit,11,72,Length Limit,0.87890625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\72\57_original_57.png_42169ecc-d01f-41b6-92ac-6ce35b88e424.png,11,72,Length Limit,11,72,Length Limit,0.91796875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\72\57_original_57.png_42bb46e2-ec78-4d08-8846-739b956b0417.png,11,72,Length Limit,11,72,Length Limit,0.8359375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\72\57_original_57.png_43399c34-760d-4183-8bb8-b6bd27bef346.png,11,72,Length Limit,11,72,Length Limit,0.86328125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\72\57_original_57.png_4690340b-eb4a-4b4c-8c80-e4fa30e1f702.png,11,72,Length Limit,11,72,Length Limit,0.98828125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\72\57_original_57.png_511b4cd5-a0bf-49c1-80f9-cb3f1324c240.png,11,72,Length Limit,11,72,Length Limit,0.3515625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\83\68_original_68.png_6e21e373-b5a5-4336-91ae-c7e53b1c9586.png,12,83,Steep Descent,13,84,Steep Ascent,0.5703125,0
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\83\68_original_68.png_72811abb-02da-4864-8b0e-4aa7be20dcb7.png,12,83,Steep Descent,12,83,Steep Descent,0.65625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\83\68_original_68.png_77761eb3-51f8-4875-83d0-d20064c55480.png,12,83,Steep Descent,12,83,Steep Descent,0.87890625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\83\68_original_68.png_7a070790-46f3-4156-9451-4f2a06fb043a.png,12,83,Steep Descent,12,83,Steep Descent,0.77734375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\83\68_original_68.png_7b07b5d4-c5b6-477b-a650-02e1d10d282f.png,12,83,Steep Descent,13,84,Steep Ascent,0.625,0
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\83\68_original_68.png_7b6aabc2-ba63-451a-ba23-61474d6e9dc0.png,12,83,Steep Descent,12,83,Steep Descent,0.92578125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\83\68_original_68.png_825370e4-af2a-4fea-ac42-efc263045d11.png,12,83,Steep Descent,12,83,Steep Descent,0.984375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\83\68_original_68.png_830f1a1f-61fe-4815-bee1-345abad00e5c.png,12,83,Steep Descent,12,83,Steep Descent,0.9140625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\83\68_original_68.png_8592589b-a41d-40b0-a493-c5d60162e3c9.png,12,83,Steep Descent,13,84,Steep Ascent,0.5234375,0
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\83\68_original_68.png_9341a019-0e50-4fb1-b569-a5fe3d5454f5.png,12,83,Steep Descent,12,83,Steep Descent,0.74609375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\83\68_original_68.png_935ca783-0d96-4c21-9c80-a986c9df3b3f.png,12,83,Steep Descent,13,84,Steep Ascent,0.59765625,0
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\83\68_original_68.png_ecb5c6c5-f47d-441f-8ac4-3c8f2dee8c5e.png,12,83,Steep Descent,12,83,Steep Descent,0.90234375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\83\68_original_68.png_ed1bf2bb-6090-427c-be89-55080ee38e2f.png,12,83,Steep Descent,12,83,Steep Descent,0.87109375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\83\68_original_68.png_f4304b6f-d0a9-4d50-9066-a4581e25e794.png,12,83,Steep Descent,12,83,Steep Descent,0.9140625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\83\68_original_68.png_f58f8011-0fde-417c-891a-f69a5578f1fd.png,12,83,Steep Descent,12,83,Steep Descent,0.87890625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\83\68_original_68.png_ff59b433-755e-4cf5-b9ca-02ec5c1fd0df.png,12,83,Steep Descent,12,83,Steep Descent,0.70703125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\84\26_original_69_original_69.png_d080ae05-e067-4fc5-948a-e3e9777eddfb.png_fe8e9682-1932-4f8d-8796-ee60b2afa308.png,13,84,Steep Ascent,13,84,Steep Ascent,0.87890625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\84\26_original_69_original_69.png_d633b0fa-5b4a-4ad4-bc76-86ceddd00c85.png_881d416b-b628-492f-9118-0570eed20a40.png,13,84,Steep Ascent,12,83,Steep Descent,0.89453125,0
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\84\26_original_69_original_69.png_d633b0fa-5b4a-4ad4-bc76-86ceddd00c85.png_e8414382-a42f-495e-a432-2bc70e10e4aa.png,13,84,Steep Ascent,12,83,Steep Descent,0.63671875,0
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\84\26_original_69_original_69.png_d749bce3-ccf8-4d0b-8b24-87779b013c8c.png_0805c052-fd47-46aa-8680-327c1656ef04.png,13,84,Steep Ascent,13,84,Steep Ascent,0.80859375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\84\26_original_69_original_69.png_d749bce3-ccf8-4d0b-8b24-87779b013c8c.png_33c158cd-9732-4d9a-9170-21645f44c858.png,13,84,Steep Ascent,12,83,Steep Descent,0.78125,0
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\84\26_original_69_original_69.png_d749bce3-ccf8-4d0b-8b24-87779b013c8c.png_3facfa70-4d1f-43bf-bc2d-e20f0dc63821.png,13,84,Steep Ascent,12,83,Steep Descent,0.609375,0
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\84\26_original_69_original_69.png_dcd4a6e9-5301-4ce5-b829-980675f25d63.png_bec2f7d8-836a-4c1a-bae2-30fd1e1c720e.png,13,84,Steep Ascent,12,83,Steep Descent,0.95703125,0
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\84\26_original_69_original_69.png_de28c344-69f0-422e-a82c-2d8554f72193.png_c680ed1b-57d4-4d2c-9870-8317557d6ab5.png,13,84,Steep Ascent,12,83,Steep Descent,0.88671875,0
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\84\26_original_69_original_69.png_de28c344-69f0-422e-a82c-2d8554f72193.png_fb210190-f434-4c9c-bb88-360f18fdbc81.png,13,84,Steep Ascent,12,83,Steep Descent,0.92578125,0
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\84\26_original_69_original_69.png_ecbd9c00-c0c8-4fd0-943c-20c316ea5379.png_701b4dfd-6800-4da9-aaf6-ab91ac24d486.png,13,84,Steep Ascent,12,83,Steep Descent,0.5703125,0
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\84\26_original_69_original_69.png_ecbd9c00-c0c8-4fd0-943c-20c316ea5379.png_e4588c1b-b029-47be-ac25-1e4cfbd44410.png,13,84,Steep Ascent,13,84,Steep Ascent,0.75390625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\84\26_original_69_original_69.png_f0d981f2-c956-4927-984b-3ca6c0379ebb.png_e2c39759-72b7-4fbd-8a3b-fb4ff39a2c4e.png,13,84,Steep Ascent,13,84,Steep Ascent,0.94921875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\84\26_original_69_original_69.png_f0d981f2-c956-4927-984b-3ca6c0379ebb.png_ee8f9675-276c-47ed-b2c3-9fc0564d8764.png,13,84,Steep Ascent,13,84,Steep Ascent,0.8828125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\84\26_original_69_original_69.png_f16972dd-4b18-43bd-ac57-19f326bedc47.png_c08d4acc-e01a-4ced-943e-93d717bf3519.png,13,84,Steep Ascent,13,84,Steep Ascent,0.6640625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\84\26_original_69_original_69.png_f18066ec-8c1d-4273-8288-8735e04b7b42.png_5f22d828-3951-4af9-98c6-06263e42dada.png,13,84,Steep Ascent,12,83,Steep Descent,0.8203125,0
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\84\26_original_69_original_69.png_f18066ec-8c1d-4273-8288-8735e04b7b42.png_cbd63ff2-b524-4ddf-94ef-935665905749.png,13,84,Steep Ascent,13,84,Steep Ascent,0.78125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\84\26_original_69_original_69.png_f2ac217e-5368-4e6a-a40a-f4a69976dbf8.png_32985888-f1af-40aa-ac50-e970a79b377d.png,13,84,Steep Ascent,13,84,Steep Ascent,0.5859375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\84\69.png,13,84,Steep Ascent,13,84,Steep Ascent,0.953125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\84\69_original_69.png_00dbcc1d-8535-4149-a009-7f5d5bd533e6.png,13,84,Steep Ascent,12,83,Steep Descent,0.78515625,0
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\85\27_original_70_original_70.png_a4dfda0a-052e-4fe7-81cb-bee4d9b82960.png_41a34251-2287-4052-b8c5-6ed84bf50864.png,14,85,Narrow Road,14,85,Narrow Road,0.95703125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\85\27_original_70_original_70.png_a4dfda0a-052e-4fe7-81cb-bee4d9b82960.png_d58631bb-303b-45cb-b98c-d8af25dffae5.png,14,85,Narrow Road,14,85,Narrow Road,0.9609375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\85\27_original_70_original_70.png_a7f5d725-09d4-41c1-bd63-885adbf2ed73.png_9476465f-a4c7-4251-94f9-63bb3b6f28ee.png,14,85,Narrow Road,14,85,Narrow Road,0.95703125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\85\27_original_70_original_70.png_a7f5d725-09d4-41c1-bd63-885adbf2ed73.png_e49f7cc4-f40b-45bf-bc2c-e159e7f829e7.png,14,85,Narrow Road,14,85,Narrow Road,0.95703125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\85\27_original_70_original_70.png_aac5e542-8d70-4801-b138-6387639748b3.png_12f73193-b2ff-4f22-b7cd-09b71126230e.png,14,85,Narrow Road,14,85,Narrow Road,0.9921875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\85\27_original_70_original_70.png_aac5e542-8d70-4801-b138-6387639748b3.png_b7d2dc95-16b6-4b33-9c49-364f577fab38.png,14,85,Narrow Road,14,85,Narrow Road,0.9375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\85\27_original_70_original_70.png_aad84383-77dd-40b6-be5a-9c863da7276e.png_57cc485b-ad37-4b85-bca9-03260a580bb3.png,14,85,Narrow Road,14,85,Narrow Road,0.88671875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\85\27_original_70_original_70.png_aad84383-77dd-40b6-be5a-9c863da7276e.png_c8116b03-5cee-4a99-a3f4-0dc909e1ffb9.png,14,85,Narrow Road,14,85,Narrow Road,0.96875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\85\27_original_70_original_70.png_ab7172bc-e448-4f18-b976-e74153773024.png_5ffa1e0a-17ba-486c-98a1-2a40dc9cd948.png,14,85,Narrow Road,14,85,Narrow Road,0.98046875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\85\27_original_70_original_70.png_ab7172bc-e448-4f18-b976-e74153773024.png_884c8f38-546e-4cb4-81db-23cda214c8c5.png,14,85,Narrow Road,14,85,Narrow Road,0.69140625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\85\27_original_70_original_70.png_ab7172bc-e448-4f18-b976-e74153773024.png_f09b71bb-5598-4fb6-a659-93df68b199ca.png,14,85,Narrow Road,14,85,Narrow Road,0.67578125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\85\27_original_70_original_70.png_ae8fc77c-4275-4dab-99cf-ba51cc29c26c.png_4390f39f-3c09-4750-bcb0-192653461f49.png,14,85,Narrow Road,14,85,Narrow Road,0.98046875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\85\27_original_70_original_70.png_ae8fc77c-4275-4dab-99cf-ba51cc29c26c.png_c0583425-158f-4db6-9ab8-8b7cc0610885.png,14,85,Narrow Road,14,85,Narrow Road,0.98046875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\85\27_original_70_original_70.png_b306f310-9d3d-4f38-85b4-81b90362ee7b.png_0469d6b4-b10c-4aa0-b90a-fb481880a80a.png,14,85,Narrow Road,14,85,Narrow Road,0.9921875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\85\27_original_70_original_70.png_bcdf5906-491d-46f9-b406-0d5be295c5c9.png_4e4541c2-e614-4a31-8de5-75e6dc78938b.png,14,85,Narrow Road,14,85,Narrow Road,0.98828125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\85\27_original_70_original_70.png_bcdf5906-491d-46f9-b406-0d5be295c5c9.png_e33a796e-70a6-48de-889c-eb5d7e74cc19.png,14,85,Narrow Road,14,85,Narrow Road,0.98046875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\85\27_original_70_original_70.png_bcdf5906-491d-46f9-b406-0d5be295c5c9.png_ef668b79-3409-44dc-9c9e-ca932591b259.png,14,85,Narrow Road,14,85,Narrow Road,0.984375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\85\27_original_70_original_70.png_c136c4f6-2aed-4322-9a56-83f77b0f7e7e.png_3fac6ee2-4e24-446f-b200-650f85e08ea1.png,14,85,Narrow Road,14,85,Narrow Road,0.44140625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\85\27_original_70_original_70.png_c6f941c5-c584-42e1-a098-71feed6120d9.png_7979bdba-f51b-4785-ae5f-68d7cc825d41.png,14,85,Narrow Road,14,85,Narrow Road,0.92578125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\85\70.png,14,85,Narrow Road,14,85,Narrow Road,0.98828125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\85\70_original_70.png_02244508-4965-4450-b5f8-aa376e36ac33.png,14,85,Narrow Road,14,85,Narrow Road,0.9765625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\85\70_original_70.png_027e14c5-b5a4-4c67-88f1-2e7311e8ad94.png,14,85,Narrow Road,14,85,Narrow Road,0.9453125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\85\70_original_70.png_03ab2764-c66d-4e66-b1a0-692ec57e9ad6.png,14,85,Narrow Road,14,85,Narrow Road,0.8125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\85\70_original_70.png_09bdcca9-acef-483f-bd6f-7c496a2e1819.png,14,85,Narrow Road,14,85,Narrow Road,0.98046875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\85\70_original_70.png_0c27de4a-7646-41af-86d2-df9e7139d561.png,14,85,Narrow Road,14,85,Narrow Road,0.91015625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\85\70_original_70.png_0c9b9253-89ca-44a2-80cf-db2d8c36590a.png,14,85,Narrow Road,14,85,Narrow Road,0.9921875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\85\70_original_70.png_0d162eb4-3352-4fcf-ab1e-60648895ea2d.png,14,85,Narrow Road,14,85,Narrow Road,0.9921875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\86\28_original_71_original_71.png_fb64b7a0-38a5-46db-96dd-b13acf5c62db.png_33734462-bc97-485e-8f38-f0699bbacd57.png,15,86,Narrow Bridge,15,86,Narrow Bridge,0.80859375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\86\28_original_71_original_71.png_fcd036f4-b754-44b5-b97e-c17de8ee0d54.png_30f4c57e-f98d-491a-adab-4c264844e30f.png,15,86,Narrow Bridge,12,83,Steep Descent,0.421875,0
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\86\28_original_71_original_71.png_fcd036f4-b754-44b5-b97e-c17de8ee0d54.png_d4efd287-37a7-4284-acc0-043c789af67a.png,15,86,Narrow Bridge,15,86,Narrow Bridge,0.89453125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\86\28_original_71_original_71.png_ff935781-3efd-4088-9fbb-abbad93f94d3.png_8b481c68-403b-4ad8-844b-0a1abfd6eb92.png,15,86,Narrow Bridge,15,86,Narrow Bridge,0.953125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\86\71.png,15,86,Narrow Bridge,15,86,Narrow Bridge,0.8984375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\86\71_original_71.png_03b7ac34-546b-496b-91ff-82fd6b34484b.png,15,86,Narrow Bridge,15,86,Narrow Bridge,0.890625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\86\71_original_71.png_05b32337-191e-42bd-bbdf-cd9968e79cb7.png,15,86,Narrow Bridge,15,86,Narrow Bridge,0.94921875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\86\71_original_71.png_0a2eab29-6474-4f6f-b926-9beb35121bb4.png,15,86,Narrow Bridge,15,86,Narrow Bridge,0.8671875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\86\71_original_71.png_0b2a0c2d-5448-4c58-8f68-83c8f1349803.png,15,86,Narrow Bridge,15,86,Narrow Bridge,0.890625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\86\71_original_71.png_1f819490-8ed1-4289-a324-9467ce1e53c2.png,15,86,Narrow Bridge,15,86,Narrow Bridge,0.8984375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\86\71_original_71.png_2c85fd81-d368-48f0-b759-96a8d1dfcb21.png,15,86,Narrow Bridge,15,86,Narrow Bridge,0.90234375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\86\71_original_71.png_2d66dd70-8ce2-4f52-bfff-afa5e5fcfd55.png,15,86,Narrow Bridge,15,86,Narrow Bridge,0.890625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\86\71_original_71.png_3cd12f12-69bf-4884-b07a-1381a2db4708.png,15,86,Narrow Bridge,15,86,Narrow Bridge,0.83203125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\86\71_original_71.png_3d6aa074-d57a-4483-a6e0-e1b7470d7d0f.png,15,86,Narrow Bridge,15,86,Narrow Bridge,0.9609375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\87\040_1_0001.png,16,87,Unknown,8,43,Go Right or Straight,0.6328125,0
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\87\040_1_0010.png,16,87,Unknown,16,87,Unknown,0.8828125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\87\040_1_0014.png,16,87,Unknown,16,87,Unknown,0.5625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\87\041_0005.png,16,87,Unknown,16,87,Unknown,0.75,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\87\041_1_0005_1_j.png,16,87,Unknown,16,87,Unknown,0.921875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\87\041_1_0006.png,16,87,Unknown,16,87,Unknown,0.64453125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\87\041_1_0008.png,16,87,Unknown,16,87,Unknown,0.6171875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\87\042_1_0004_1_j.png,16,87,Unknown,16,87,Unknown,0.94140625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\87\042_1_0005.png,16,87,Unknown,8,43,Go Right or Straight,0.515625,0
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\87\042_1_0007.png,16,87,Unknown,16,87,Unknown,0.42578125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\87\044_0001.png,16,87,Unknown,16,87,Unknown,0.7734375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\87\044_1_0007.png,16,87,Unknown,16,87,Unknown,0.46484375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\87\045_1_0002.png,16,87,Unknown,16,87,Unknown,0.96484375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\87\045_1_0008.png,16,87,Unknown,16,87,Unknown,0.96875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\87\046_0010_j.png,16,87,Unknown,16,87,Unknown,0.796875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\87\046_1_0005.png,16,87,Unknown,16,87,Unknown,0.5,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\87\047_0003.png,16,87,Unknown,16,87,Unknown,0.875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\87\047_0005.png,16,87,Unknown,16,87,Unknown,0.86328125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\87\048_0004_j.png,16,87,Unknown,16,87,Unknown,0.9140625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\87\048_1_0004_1_j.png,16,87,Unknown,16,87,Unknown,0.9140625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\87\049_1_0003.png,16,87,Unknown,16,87,Unknown,0.546875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\87\049_1_0009.png,16,87,Unknown,16,87,Unknown,0.875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\87\050_1_0008.png,16,87,Unknown,16,87,Unknown,0.5,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\87\050_1_0010.png,16,87,Unknown,16,87,Unknown,0.88671875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\87\051_0005_j.png,16,87,Unknown,16,87,Unknown,0.984375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\87\051_1_0005_1_j.png,16,87,Unknown,16,87,Unknown,0.984375,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\87\052_0001.png,16,87,Unknown,16,87,Unknown,0.4765625,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\87\052_1_0017.png,16,87,Unknown,16,87,Unknown,0.953125,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\87\054_1_0124.png,16,87,Unknown,16,87,Unknown,0.921875,1
+C:\Data\Sandbox\DiagStds_QAC_IOHandler\data\Validation\87\054_1_0156.png,16,87,Unknown,16,87,Unknown,0.96484375,1

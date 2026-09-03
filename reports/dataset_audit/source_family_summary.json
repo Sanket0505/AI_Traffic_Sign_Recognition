@@ -1,0 +1,280 @@
+{
+  "train_images": 1460,
+  "validation_images": 364,
+  "validation_with_uuid_metadata": 139,
+  "validation_with_direct_uuid_overlap": 79,
+  "validation_with_direct_uuid_overlap_of_all_percent": 21.703296703296704,
+  "validation_with_direct_uuid_overlap_of_auditable_percent": 56.83453237410072,
+  "validation_with_cross_class_uuid_overlap": 0,
+  "validation_with_root_source_metadata": 139,
+  "validation_with_root_source_overlap": 139,
+  "validation_with_root_source_overlap_of_all_percent": 38.18681318681319,
+  "validation_with_root_source_overlap_of_auditable_percent": 100.0,
+  "validation_with_mixed_original_chain": 0,
+  "interpretation": "Direct UUID overlap is strong evidence of parent/descendant leakage. Root-source overlap is broader and may group many generated variants; use it for grouped validation, not as proof of byte duplication. Auditable percentages exclude files with no provenance metadata.",
+  "per_class": {
+    "0": {
+      "train_images": 69,
+      "validation_images": 49,
+      "validation_with_uuid_metadata": 0,
+      "validation_with_root_source_metadata": 0,
+      "validation_with_mixed_original_chain": 0,
+      "validation_with_direct_uuid_overlap": 0,
+      "validation_with_cross_class_uuid_overlap": 0,
+      "validation_with_root_source_overlap": 0,
+      "train_root_sources": [],
+      "validation_root_sources": [],
+      "cross_split_root_sources": []
+    },
+    "2": {
+      "train_images": 70,
+      "validation_images": 10,
+      "validation_with_uuid_metadata": 0,
+      "validation_with_root_source_metadata": 0,
+      "validation_with_mixed_original_chain": 0,
+      "validation_with_direct_uuid_overlap": 0,
+      "validation_with_cross_class_uuid_overlap": 0,
+      "validation_with_root_source_overlap": 0,
+      "train_root_sources": [],
+      "validation_root_sources": [],
+      "cross_split_root_sources": []
+    },
+    "3": {
+      "train_images": 96,
+      "validation_images": 30,
+      "validation_with_uuid_metadata": 0,
+      "validation_with_root_source_metadata": 0,
+      "validation_with_mixed_original_chain": 0,
+      "validation_with_direct_uuid_overlap": 0,
+      "validation_with_cross_class_uuid_overlap": 0,
+      "validation_with_root_source_overlap": 0,
+      "train_root_sources": [],
+      "validation_root_sources": [],
+      "cross_split_root_sources": []
+    },
+    "4": {
+      "train_images": 88,
+      "validation_images": 10,
+      "validation_with_uuid_metadata": 0,
+      "validation_with_root_source_metadata": 0,
+      "validation_with_mixed_original_chain": 0,
+      "validation_with_direct_uuid_overlap": 0,
+      "validation_with_cross_class_uuid_overlap": 0,
+      "validation_with_root_source_overlap": 0,
+      "train_root_sources": [],
+      "validation_root_sources": [],
+      "cross_split_root_sources": []
+    },
+    "5": {
+      "train_images": 97,
+      "validation_images": 30,
+      "validation_with_uuid_metadata": 0,
+      "validation_with_root_source_metadata": 0,
+      "validation_with_mixed_original_chain": 0,
+      "validation_with_direct_uuid_overlap": 0,
+      "validation_with_cross_class_uuid_overlap": 0,
+      "validation_with_root_source_overlap": 0,
+      "train_root_sources": [],
+      "validation_root_sources": [],
+      "cross_split_root_sources": []
+    },
+    "6": {
+      "train_images": 67,
+      "validation_images": 11,
+      "validation_with_uuid_metadata": 0,
+      "validation_with_root_source_metadata": 0,
+      "validation_with_mixed_original_chain": 0,
+      "validation_with_direct_uuid_overlap": 0,
+      "validation_with_cross_class_uuid_overlap": 0,
+      "validation_with_root_source_overlap": 0,
+      "train_root_sources": [],
+      "validation_root_sources": [],
+      "cross_split_root_sources": []
+    },
+    "7": {
+      "train_images": 92,
+      "validation_images": 25,
+      "validation_with_uuid_metadata": 0,
+      "validation_with_root_source_metadata": 0,
+      "validation_with_mixed_original_chain": 0,
+      "validation_with_direct_uuid_overlap": 0,
+      "validation_with_cross_class_uuid_overlap": 0,
+      "validation_with_root_source_overlap": 0,
+      "train_root_sources": [],
+      "validation_root_sources": [],
+      "cross_split_root_sources": []
+    },
+    "24": {
+      "train_images": 87,
+      "validation_images": 13,
+      "validation_with_uuid_metadata": 0,
+      "validation_with_root_source_metadata": 0,
+      "validation_with_mixed_original_chain": 0,
+      "validation_with_direct_uuid_overlap": 0,
+      "validation_with_cross_class_uuid_overlap": 0,
+      "validation_with_root_source_overlap": 0,
+      "train_root_sources": [],
+      "validation_root_sources": [],
+      "cross_split_root_sources": []
+    },
+    "43": {
+      "train_images": 68,
+      "validation_images": 14,
+      "validation_with_uuid_metadata": 0,
+      "validation_with_root_source_metadata": 0,
+      "validation_with_mixed_original_chain": 0,
+      "validation_with_direct_uuid_overlap": 0,
+      "validation_with_cross_class_uuid_overlap": 0,
+      "validation_with_root_source_overlap": 0,
+      "train_root_sources": [],
+      "validation_root_sources": [],
+      "cross_split_root_sources": []
+    },
+    "69": {
+      "train_images": 113,
+      "validation_images": 30,
+      "validation_with_uuid_metadata": 30,
+      "validation_with_root_source_metadata": 30,
+      "validation_with_mixed_original_chain": 0,
+      "validation_with_direct_uuid_overlap": 18,
+      "validation_with_cross_class_uuid_overlap": 0,
+      "validation_with_root_source_overlap": 30,
+      "train_root_sources": [
+        "54"
+      ],
+      "validation_root_sources": [
+        "54"
+      ],
+      "cross_split_root_sources": [
+        "54"
+      ]
+    },
+    "70": {
+      "train_images": 43,
+      "validation_images": 11,
+      "validation_with_uuid_metadata": 11,
+      "validation_with_root_source_metadata": 11,
+      "validation_with_mixed_original_chain": 0,
+      "validation_with_direct_uuid_overlap": 5,
+      "validation_with_cross_class_uuid_overlap": 0,
+      "validation_with_root_source_overlap": 11,
+      "train_root_sources": [
+        "55"
+      ],
+      "validation_root_sources": [
+        "55"
+      ],
+      "cross_split_root_sources": [
+        "55"
+      ]
+    },
+    "72": {
+      "train_images": 96,
+      "validation_images": 25,
+      "validation_with_uuid_metadata": 25,
+      "validation_with_root_source_metadata": 25,
+      "validation_with_mixed_original_chain": 0,
+      "validation_with_direct_uuid_overlap": 8,
+      "validation_with_cross_class_uuid_overlap": 0,
+      "validation_with_root_source_overlap": 25,
+      "train_root_sources": [
+        "57"
+      ],
+      "validation_root_sources": [
+        "57"
+      ],
+      "cross_split_root_sources": [
+        "57"
+      ]
+    },
+    "83": {
+      "train_images": 88,
+      "validation_images": 16,
+      "validation_with_uuid_metadata": 16,
+      "validation_with_root_source_metadata": 16,
+      "validation_with_mixed_original_chain": 0,
+      "validation_with_direct_uuid_overlap": 2,
+      "validation_with_cross_class_uuid_overlap": 0,
+      "validation_with_root_source_overlap": 16,
+      "train_root_sources": [
+        "68"
+      ],
+      "validation_root_sources": [
+        "68"
+      ],
+      "cross_split_root_sources": [
+        "68"
+      ]
+    },
+    "84": {
+      "train_images": 93,
+      "validation_images": 19,
+      "validation_with_uuid_metadata": 18,
+      "validation_with_root_source_metadata": 18,
+      "validation_with_mixed_original_chain": 0,
+      "validation_with_direct_uuid_overlap": 17,
+      "validation_with_cross_class_uuid_overlap": 0,
+      "validation_with_root_source_overlap": 18,
+      "train_root_sources": [
+        "69"
+      ],
+      "validation_root_sources": [
+        "69"
+      ],
+      "cross_split_root_sources": [
+        "69"
+      ]
+    },
+    "85": {
+      "train_images": 129,
+      "validation_images": 27,
+      "validation_with_uuid_metadata": 26,
+      "validation_with_root_source_metadata": 26,
+      "validation_with_mixed_original_chain": 0,
+      "validation_with_direct_uuid_overlap": 19,
+      "validation_with_cross_class_uuid_overlap": 0,
+      "validation_with_root_source_overlap": 26,
+      "train_root_sources": [
+        "70"
+      ],
+      "validation_root_sources": [
+        "70"
+      ],
+      "cross_split_root_sources": [
+        "70"
+      ]
+    },
+    "86": {
+      "train_images": 84,
+      "validation_images": 14,
+      "validation_with_uuid_metadata": 13,
+      "validation_with_root_source_metadata": 13,
+      "validation_with_mixed_original_chain": 0,
+      "validation_with_direct_uuid_overlap": 10,
+      "validation_with_cross_class_uuid_overlap": 0,
+      "validation_with_root_source_overlap": 13,
+      "train_root_sources": [
+        "71"
+      ],
+      "validation_root_sources": [
+        "71"
+      ],
+      "cross_split_root_sources": [
+        "71"
+      ]
+    },
+    "87": {
+      "train_images": 80,
+      "validation_images": 30,
+      "validation_with_uuid_metadata": 0,
+      "validation_with_root_source_metadata": 0,
+      "validation_with_mixed_original_chain": 0,
+      "validation_with_direct_uuid_overlap": 0,
+      "validation_with_cross_class_uuid_overlap": 0,
+      "validation_with_root_source_overlap": 0,
+      "train_root_sources": [],
+      "validation_root_sources": [],
+      "cross_split_root_sources": []
+    }
+  }
+}

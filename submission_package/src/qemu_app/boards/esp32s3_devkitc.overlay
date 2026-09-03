@@ -1,0 +1,16 @@
+/* boards/esp32s3_devkitc.overlay
+ * Route the console to UART0 @115200 for the submission's UART image protocol.
+ * Some ESP32-S3 defconfigs send the console to USB-Serial-JTAG instead; this
+ * pins it to the hardware UART so send_image.py works over the USB-UART bridge.
+ */
+/ {
+	chosen {
+		zephyr,console = &uart0;
+		zephyr,shell-uart = &uart0;
+	};
+};
+
+&uart0 {
+	status = "okay";
+	current-speed = <115200>;
+};

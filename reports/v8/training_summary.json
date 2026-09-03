@@ -1,0 +1,100 @@
+{
+  "script": "train_model_v8.py",
+  "seed": 42,
+  "input_shape": [
+    48,
+    48,
+    3
+  ],
+  "number_of_classes": 17,
+  "class_ids": [
+    0,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    24,
+    43,
+    69,
+    70,
+    72,
+    83,
+    84,
+    85,
+    86,
+    87
+  ],
+  "weak_class_indices": [
+    12,
+    13,
+    16
+  ],
+  "weak_class_ids": [
+    83,
+    84,
+    87
+  ],
+  "oversampling_factor": 3,
+  "class_weights_enabled": false,
+  "conflict_aware_mixing": true,
+  "float_accuracy_percent": 90.93406593406593,
+  "qat_accuracy_percent": 91.20879120879121,
+  "int8_accuracy_percent": 91.20879120879121,
+  "int8_macro_f1": 0.9030751724492416,
+  "baseline_int8_accuracy_percent": 92.9,
+  "improvement_percentage_points": -1.691208791208794,
+  "strict_ship_decision": false,
+  "quantization_type": "QAT",
+  "tflite_size_bytes": 25856,
+  "tflite_size_kb": 25.25,
+  "input_quantization": {
+    "scale": 0.003921568859368563,
+    "zero_point": -128
+  },
+  "output_quantization": {
+    "scale": 0.00390625,
+    "zero_point": -128
+  },
+  "desktop_tflite_timing": {
+    "mean_ms": 0.02688545974196641,
+    "median_ms": 0.026500318199396133,
+    "minimum_ms": 0.025799963623285294,
+    "maximum_ms": 0.07530022412538528,
+    "p95_ms": 0.026899855583906174
+  },
+  "weak_class_summary": {
+    "83": {
+      "name": "Steep Descent",
+      "correct": 12,
+      "total": 16,
+      "accuracy_percent": 75.0
+    },
+    "84": {
+      "name": "Steep Ascent",
+      "correct": 9,
+      "total": 19,
+      "accuracy_percent": 47.36842105263158
+    },
+    "87": {
+      "name": "Unknown",
+      "correct": 28,
+      "total": 30,
+      "accuracy_percent": 93.33333333333333
+    }
+  },
+  "elapsed_seconds": 280.434782743454,
+  "output_files": {
+    "float_model": "C:\\Data\\Sandbox\\DiagStds_QAC_IOHandler\\model\\float_model_v8.keras",
+    "quantized_model": "C:\\Data\\Sandbox\\DiagStds_QAC_IOHandler\\model\\quantized_model\\model_quant_v8.tflite",
+    "model_header": "C:\\Data\\Sandbox\\DiagStds_QAC_IOHandler\\src\\qemu_app\\src\\model_data_v8.h",
+    "model_source": "C:\\Data\\Sandbox\\DiagStds_QAC_IOHandler\\src\\qemu_app\\src\\model_data_v8.cc",
+    "float_metrics": "C:\\Data\\Sandbox\\DiagStds_QAC_IOHandler\\reports\\v8\\float_metrics.csv",
+    "qat_metrics": "C:\\Data\\Sandbox\\DiagStds_QAC_IOHandler\\reports\\v8\\qat_metrics.csv",
+    "int8_metrics": "C:\\Data\\Sandbox\\DiagStds_QAC_IOHandler\\reports\\v8\\int8_metrics.csv",
+    "confusion_matrix": "C:\\Data\\Sandbox\\DiagStds_QAC_IOHandler\\reports\\v8\\int8_confusion_matrix.csv",
+    "predictions": "C:\\Data\\Sandbox\\DiagStds_QAC_IOHandler\\reports\\v8\\int8_predictions.csv",
+    "misclassified_images": "C:\\Data\\Sandbox\\DiagStds_QAC_IOHandler\\reports\\v8\\misclassified"
+  }
+}
